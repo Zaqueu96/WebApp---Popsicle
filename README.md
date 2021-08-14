@@ -7,7 +7,7 @@
 
 > Show Items for sellers popsicles
 
-### ✨ [Demo](https://web-app-popsicle.herokuapp.com/)
+### ✨ [Demo](https://master.d3moioqlzv6usc.amplifyapp.com/)
 
 ## Prerequisites
 
